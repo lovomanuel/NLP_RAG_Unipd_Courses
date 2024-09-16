@@ -1,0 +1,449 @@
+﻿Q_0: What is the name of the course unit that allocates 9 ECTS credits in the second cycle degree in Computer Engineering?
+Q_0: Who is the teacher in charge of the course "Automata, Languages and Computation"?
+
+
+Q_1: What mathematical proof technique is assumed to be familiar to students taking the "Automata, Languages and Computation" course?
+Q_1: What are the two main goals of the "Automata, Languages and Computation" course?
+
+
+Q_2: How many ECTS credits are allocated to the "Machine Learning" course in the second cycle degree in Computer Engineering?
+Q_2: Who is the teacher in charge of the "Machine Learning" course?
+
+
+Q_3: What are the prerequisites for attending the "Machine Learning" course?
+Q_3: What type of learning problems does the "Machine Learning" course cover?
+
+
+Q_4: How many ECTS credits are allocated to the "Inferential Statistics" course in the second cycle degree in Computer Engineering?
+Q_4: Who is the teacher in charge of the "Inferential Statistics" course?
+
+
+Q_5: What are the prerequisites for attending the "Inferential Statistics" course?
+Q_5: What statistical distributions are included in the "Inferential Statistics" course content?
+
+
+Q_6: How many ECTS credits are allocated to the "Operations Research 1" course in the second cycle degree in Computer Engineering?
+Q_6: Who is the teacher in charge of the "Operations Research 1" course?
+
+
+Q_7: What are the prerequisites for attending the "Operations Research 1" course?
+Q_7: What optimization techniques are taught in the "Operations Research 1" course?
+
+
+Q_8: How many ECTS credits are allocated to the "Quality Engineering" course in the second cycle degree in Computer Engineering?
+Q_8: Who is the teacher in charge of the "Quality Engineering" course?
+
+
+Q_9: What are the prerequisites for attending the "Quality Engineering" course?
+Q_9: What quality management standards are discussed in the "Quality Engineering" course?
+
+
+Q_10: How many ECTS credits are allocated to the "Artificial Intelligence" course in the second cycle degree in Computer Engineering?
+Q_10: Who is the teacher in charge of the "Artificial Intelligence" course?
+
+
+Q_11: Is attendance mandatory for the "Artificial Intelligence" course?
+Q_11: Can Erasmus students attend the "Artificial Intelligence" course?
+
+
+Q_11: What are the recommended prerequisites for the "Artificial Intelligence" course?
+Q_11: What topics are covered in the "Artificial Intelligence" course related to multi-agent systems?
+
+
+Q_12: How many ECTS credits are allocated to the "Big Data Computing (A)" course in the second cycle degree in Computer Engineering?
+Q_12: Who is the teacher in charge of the "Big Data Computing (A)" course?
+
+
+Q_13: What are the prerequisites for attending the "Big Data Computing (A)" course?
+Q_13: What programming frameworks are taught in the "Big Data Computing (A)" course?
+
+
+Q_14: How many ECTS credits are allocated to the "Big Data Computing (B)" course in the second cycle degree in Computer Engineering?
+Q_14: Who is the teacher in charge of the "Big Data Computing (B)" course?
+
+
+Q_15: What are the prerequisites for attending the "Big Data Computing (B)" course?
+Q_15: What topics are covered in the "Big Data Computing (B)" course related to data analysis?
+
+
+Q_16: How many ECTS credits are allocated to the "Computer Vision" course in the second cycle degree in Computer Engineering?
+Q_16: Who is the teacher in charge of the "Computer Vision" course?
+
+
+Q_17: What are the prerequisites for attending the "Computer Vision" course?
+Q_17: What software library is emphasized in the "Computer Vision" course?
+
+
+Q_18: How many ECTS credits are allocated to the "Deep Learning" course in the second cycle degree in Computer Engineering?
+Q_18: Who is the teacher in charge of the "Deep Learning" course?
+
+
+Q_19: What are the prerequisites for attending the "Deep Learning" course?
+Q_19: What are some of the advanced topics covered in the "Deep Learning" course?
+
+
+Q_20: How many ECTS credits are allocated to the "Robotics and Control 1" course in the second cycle degree in Computer Engineering?
+Q_20: Who is the teacher in charge of the "Robotics and Control 1" course?
+
+
+Q_21: What are the prerequisites for attending the "Robotics and Control 1" course?
+Q_21: What topics are covered in the "Robotics and Control 1" course related to robotic manipulators?
+
+
+Q_22: How many ECTS credits are allocated to the "Game Theory" course in the second cycle degree in Computer Engineering?
+Q_22: Who is the teacher in charge of the "Game Theory" course?
+
+
+Q_23: What is a basic prerequisite for attending the "Game Theory" course?
+Q_23: What applied objectives does the "Game Theory" course aim to achieve in the context of ICT?
+
+
+Q_24: How many ECTS credits are allocated to the "Industrial Robotics" course in the second cycle degree in Computer Engineering?
+Q_24: Who is the teacher in charge of the "Industrial Robotics" course?
+
+
+Q_25: What are the prerequisites for attending the "Industrial Robotics" course?
+Q_25: What topics are covered in the "Industrial Robotics" course related to robot programming?
+
+
+Q_26: How many ECTS credits are allocated to the "Innovation, Entrepreneurship and Finance" course in the second cycle degree in Computer Engineering?
+Q_26: Who is the teacher in charge of the "Innovation, Entrepreneurship and Finance" course?
+
+
+Q_27: Are there any prerequisites for attending the "Innovation, Entrepreneurship and Finance" course?
+Q_27: What methods will be used for learning in the "Innovation, Entrepreneurship and Finance" course?
+
+
+Q_28: How many ECTS credits are allocated to the "Intelligent Robotics" course in the second cycle degree in Computer Engineering?
+Q_28: Who is the teacher in charge of the "Intelligent Robotics" course?
+
+
+Q_29: What are the recommended prerequisites for the "Intelligent Robotics" course?
+Q_29: What are some of the key topics covered in the "Intelligent Robotics" course?
+
+
+Q_30: How many ECTS credits are allocated to the "3D Data Processing" course in the second cycle degree in Computer Engineering?
+Q_30: Who is the teacher in charge of the "3D Data Processing" course?
+
+
+Q_31: What are the prerequisites for attending the "3D Data Processing" course?
+Q_31: What topics related to 3D data processing are covered in the "3D Data Processing" course?
+
+
+Q_32: How many ECTS credits are allocated to the "Natural Language Processing" course in the second cycle degree in Computer Engineering?
+Q_32: Who is the teacher in charge of the "Natural Language Processing" course?
+
+
+Q_33: What are the prerequisites for attending the "Natural Language Processing" course?
+Q_33: What skills and knowledge are targeted in the "Natural Language Processing" course?
+
+
+Q_34: How many ECTS credits are allocated to the "Operations Research 2" course in the second cycle degree in Computer Engineering?
+Q_34: Who is the teacher in charge of the "Operations Research 2" course?
+
+
+Q_35: What are the prerequisites for attending the "Operations Research 2" course?
+Q_35: What is the focus of the "Operations Research 2" course in terms of algorithm design?
+
+
+Q_36: How many ECTS credits are allocated to the "Artificial Organs" course in the second cycle degree in Bioengineering?
+Q_36: Who is the teacher in charge of the "Artificial Organs" course?
+
+
+Q_37: What are the prerequisites for attending the "Artificial Organs" course?
+Q_37: What topics are covered in the "Artificial Organs" course related to mechanical and bioengineered organs?
+
+
+Q_38: How many ECTS credits are allocated to the "Geometric Modeling of Anatomical Medical Devices" course in the second cycle degree in Bioengineering?
+Q_38: Who is the teacher in charge of the "Geometric Modeling of Anatomical Medical Devices" course?
+
+
+Q_39: How many ECTS credits are allocated to the "Manufacturing for Biomedical Components" course in the second cycle degree in Bioengineering?
+Q_39: Who is the teacher in charge of the "Manufacturing for Biomedical Components" course?
+
+
+Q_40: What are the prerequisites for attending the "Manufacturing for Biomedical Components" course?
+Q_40: What manufacturing processes are covered in the "Manufacturing for Biomedical Components" course?
+
+
+Q_41: How many ECTS credits are allocated to the "Mechanics of Biological Tissues" course in the second cycle degree in Bioengineering?
+Q_41: Who is the teacher in charge of the "Mechanics of Biological Tissues" course?
+
+
+Q_42: How many ECTS credits are allocated to the "Modeling Methodology for Physiology and Medicine" course in the second cycle degree in Bioengineering?
+Q_42: Who is the teacher in charge of the "Modeling Methodology for Physiology and Medicine" course?
+
+
+Q_43: What are the prerequisites for attending the "Modeling Methodology for Physiology and Medicine" course?
+Q_43: What are some of the case studies covered in the "Modeling Methodology for Physiology and Medicine" course?
+
+
+Q_44: How many ECTS credits are allocated to the "Statistical Methods for Bioengineering" course in the second cycle degree in Bioengineering?
+Q_44: Who are the teachers in charge of the "Statistical Methods for Bioengineering" course?
+
+
+Q_45: What are the prerequisites for attending the "Statistical Methods for Bioengineering" course?
+Q_45: What topics are covered in the "Statistical Methods for Bioengineering" course related to statistical tests and data analysis?
+
+
+Q_46: How many ECTS credits are allocated to the "Bioimaging" course in the second cycle degree in Bioengineering?
+Q_46: Who are the teachers in charge of the "Bioimaging" course?
+
+
+Q_47: How many ECTS credits are allocated to the "Biomarkers, Precision Medicine and Drug Development" course in the second cycle degree in Bioengineering?
+Q_47: Who is the teacher in charge of the "Biomarkers, Precision Medicine and Drug Development" course?
+
+
+Q_48: What are the prerequisites for attending the "Biomarkers, Precision Medicine and Drug Development" course?
+Q_48: What topics are covered in the "Biomarkers, Precision Medicine and Drug Development" course related to precision medicine?
+
+
+Q_49: How many ECTS credits are allocated to the "Cardiovascular Flows Modelling" course in the second cycle degree in Bioengineering?
+Q_49: Who is the teacher in charge of the "Cardiovascular Flows Modelling" course?
+
+
+Q_50: What are the prerequisites for attending the "Cardiovascular Flows Modelling" course?
+Q_50: What are some of the topics covered in the "Cardiovascular Flows Modelling" course related to fluid dynamics?
+
+
+Q_51: How many ECTS credits are allocated to the "Computational Biomechanics" course in the second cycle degree in Bioengineering?
+Q_51: Who are the teachers in charge of the "Computational Biomechanics" course?
+
+
+Q_52: How many ECTS credits are allocated to the "Functional Anatomy" course in the second cycle degree in Bioengineering?
+Q_52: Who are the teachers in charge of the "Functional Anatomy" course?
+
+
+Q_53: How many ECTS credits are allocated to the "Imaging for Neuroscience" course in the second cycle degree in Bioengineering?
+Q_53: Who are the teachers in charge of the "Imaging for Neuroscience" course?
+
+
+Q_54: What are the prerequisites for attending the "Imaging for Neuroscience" course?
+Q_54: What are some of the key topics covered in the "Imaging for Neuroscience" course related to MRI and PET?
+
+
+Q_55: How many ECTS credits are allocated to the "Machine Learning for Bioengineering" course in the second cycle degree in Bioengineering?
+Q_55: Who is the teacher in charge of the "Machine Learning for Bioengineering" course?
+
+
+Q_56: What are the prerequisites for attending the "Machine Learning for Bioengineering" course?
+Q_56: What topics related to regression and classification are covered in the "Machine Learning for Bioengineering" course?
+
+
+Q_57: How many ECTS credits are allocated to the "Polymeric Biomaterials for Regenerative Medicine" course in the second cycle degree in Bioengineering?
+Q_57: Who are the teachers in charge of the "Polymeric Biomaterials for Regenerative Medicine" course?
+
+
+Q_58: How many ECTS credits are allocated to the "Sports Engineering and Rehabilitation Devices" course in the second cycle degree in Bioengineering?
+Q_58: Who is the teacher in charge of the "Sports Engineering and Rehabilitation Devices" course?
+
+
+Q_59: What are the prerequisites for attending the "Sports Engineering and Rehabilitation Devices" course?
+Q_59: What skills will be developed during the "Sports Engineering and Rehabilitation Devices" course related to biomechanical modeling?
+
+
+Q_60: How many ECTS credits are allocated to the "Translational Biomedical Engineering for Cell and Gene Therapy" course in the second cycle degree in Bioengineering?
+Q_60: Who is the teacher in charge of the "Translational Biomedical Engineering for Cell and Gene Therapy" course?
+
+
+Q_61: What are the prerequisites for attending the "Translational Biomedical Engineering for Cell and Gene Therapy" course?
+Q_61: What topics related to cell and gene therapy are covered in the "Translational Biomedical Engineering for Cell and Gene Therapy" course?
+
+
+Q_62: How many ECTS credits are allocated to the "Wearable Sensing Design for Healthcare" course in the second cycle degree in Bioengineering?
+Q_62: Who are the teachers in charge of the "Wearable Sensing Design for Healthcare" course?
+
+
+Q_63: What are the prerequisites for attending the "Wearable Sensing Design for Healthcare" course?
+Q_63: What topics related to wearable sensors and system design are covered in the "Wearable Sensing Design for Healthcare" course?
+
+
+Q_64: How many ECTS credits are allocated to the "Advanced Biomaterials for Medical Applications" course in the second cycle degree in Bioengineering?
+Q_64: Who are the teachers in charge of the "Advanced Biomaterials for Medical Applications" course?
+
+
+Q_65: How many ECTS credits are allocated to the "Analysis of Biological Data" course in the second cycle degree in Bioengineering?
+Q_65: Who is the teacher in charge of the "Analysis of Biological Data" course?
+
+
+Q_66: What is the degree course for the Artificial Organs class in the A.Y. 2020/21 and A.Y. 2024/25?
+Q_66: Is attendance mandatory for the Artificial Organs course in the Bioengineering program?
+
+
+Q_67: What are the prerequisites for the Artificial Organs course?
+Q_67: What are the main design criteria and regulations covered in the Artificial Organs course?
+
+
+Q_68: What is the degree course track for the Bioactive and Biomimetic Materials class?
+Q_68: Is attendance mandatory for the Bioactive and Biomimetic Materials course?
+
+
+Q_69: What basic skills are required as prerequisites for the Bioactive and Biomimetic Materials course?
+Q_69: What type of research project will students have to complete in the Bioactive and Biomimetic Materials course?
+
+
+Q_70: What is the degree course track for the Biomaterial Technology class?
+Q_70: Who are the teachers in charge of the Biomaterial Technology course?
+
+
+Q_71: What basic knowledge and skills are prerequisites for the Biomaterial Technology course?
+
+
+Q_72: What is the degree course track for the Biosensors class?
+Q_72: Who is the teacher in charge of the Biosensors course?
+
+
+Q_73: What basic knowledge should students have before taking the Biosensors course?
+Q_73: What fundamental characteristics of electrical properties are compared in the Biosensors course?
+
+
+Q_74: What is the degree course track for the Computational Genomics class?
+Q_74: Who is the teacher in charge of the Computational Genomics course?
+
+
+Q_75: What are the prerequisites for the Computational Genomics course?
+Q_75: What sequencing technologies and data analysis skills are covered in the Computational Genomics course?
+
+
+Q_76: What is the degree course track for the Control of Biological Systems class?
+Q_76: Is attendance mandatory for the Control of Biological Systems course?
+
+
+Q_77: What basic knowledge is required as prerequisites for the Control of Biological Systems course?
+Q_77: What control technique is primarily focused on in the Control of Biological Systems course?
+
+
+Q_78: What is the degree course track for the Deep Learning Applied to Neuroscience and Rehabilitation class?
+Q_78: Who is the teacher in charge of the Deep Learning Applied to Neuroscience and Rehabilitation course?
+
+
+Q_79: What are the prerequisites for the Deep Learning Applied to Neuroscience and Rehabilitation course?
+Q_79: What types of biomedical data are analyzed using deep learning in the Deep Learning Applied to Neuroscience and Rehabilitation course?
+
+
+Q_80: What is the degree course track for the Human Neuromusculoskeletal Modelling class?
+Q_80: Who is the teacher in charge of the Human Neuromusculoskeletal Modelling course?
+
+
+Q_81: What basic knowledge is required as prerequisites for the Human Neuromusculoskeletal Modelling course?
+Q_81: What software is used for computer simulations in the Human Neuromusculoskeletal Modelling course?
+
+
+Q_82: What is the degree course track for the Mathematical Cell Biology class?
+Q_82: Who is the teacher in charge of the Mathematical Cell Biology course?
+
+
+Q_83: What knowledge is required as prerequisites for the Mathematical Cell Biology course?
+Q_83: What topics related to neuronal activity are covered in the Mathematical Cell Biology course?
+
+
+Q_84: What is the degree course track for the Neurophysiology, Neural Computation and Neurotechnologies class?
+Q_84: Who are the teachers in charge of the Neurophysiology, Neural Computation and Neurotechnologies course?
+
+
+Q_85: What basic knowledge is preferred as prerequisites for the Neurophysiology, Neural Computation and Neurotechnologies course?
+Q_85: What neurotechnologies are discussed for measuring neuronal activity in the Neurophysiology, Neural Computation and Neurotechnologies course?
+
+
+Q_86: What is the degree course track for the Nanotechnology for Bioengineering class?
+Q_86: Who are the teachers in charge of the Nanotechnology for Bioengineering course?
+
+
+Q_87: What is the degree course track for the Medical Big Data Sources and Clinical Decision Support Systems class?
+Q_87: Who is the teacher in charge of the Medical Big Data Sources and Clinical Decision Support Systems course?
+
+
+Q_88: What are the prerequisites for the Medical Big Data Sources and Clinical Decision Support Systems course?
+Q_88: What types of medical data are explored in the Medical Big Data Sources and Clinical Decision Support Systems course?
+
+
+Q_89: What is the degree course track for the Computational Mechanics for Clinic and Surgery class?
+Q_89: Who is the teacher in charge of the Computational Mechanics for Clinic and Surgery course?
+
+
+Q_90: What is the degree course track for the Clinical Engineering and Health Technology Assessment class?
+Q_90: Who is the teacher in charge of the Clinical Engineering and Health Technology Assessment course?
+
+
+Q_91: What are the prerequisites for the Clinical Engineering and Health Technology Assessment course?
+Q_91: What economic evaluation methods are covered in the Clinical Engineering and Health Technology Assessment course?
+
+
+Q_92: What is the degree course track for the Cardiovascular Flows Modelling class?
+Q_92: What are the prerequisites for the Cardiovascular Flows Modelling course?
+
+
+Q_93: What basic knowledge is required as prerequisites for the Cardiovascular Flows Modelling course?
+Q_93: What topics related to hemodynamics are covered in the Cardiovascular Flows Modelling course?
+
+
+Q_94: What is the degree course track for the Biomedical Wearable Technologies for Healthcare and Wellbeing class?
+Q_94: Who is the teacher in charge of the Biomedical Wearable Technologies for Healthcare and Wellbeing course?
+
+
+Q_95: What are the prerequisites for the Biomedical Wearable Technologies for Healthcare and Wellbeing course?
+Q_95: What practical skills will students learn in the Biomedical Wearable Technologies for Healthcare and Wellbeing course?
+
+
+Q_96: What is the degree course track for the Neurorobotics and Neurorehabilitation class?
+Q_96: Who are the teachers in charge of the Neurorobotics and Neurorehabilitation course?
+
+
+Q_97: What are the prerequisites for the Neurorobotics and Neurorehabilitation course?
+Q_97: What are the two main modules covered in the Neurorobotics and Neurorehabilitation course?
+
+
+Q_98: What is the degree course track for the Medical Robotics class?
+Q_98: Who is the teacher in charge of the Medical Robotics course?
+
+
+Q_99: What are the mandatory first-semester courses for the AI&Robotics track in the master's degree in Computer Engineering at the University of Padua?
+Q_99: How many elective credits must students complete in the second year of the AI&Robotics track?
+Q_99: How many elective credits must students complete in the second year of the AI&Robotics track?
+Q_99: How many CFU and practical hours does the "Internship" course offer?
+
+
+Q_100: What are the mandatory second-semester courses for the first year in the Bioinformatics track?
+Q_100: How many CFU and lecture hours does the "Computational Genomics" course offer?
+Q_100: What elective courses are available in the second year for the Bioinformatics track?
+Q_100: What is the course code and CFU for the "Search Engines" elective course?
+
+
+Q_101: What are the options for the language proficiency activities in the first year?
+Q_101: How many hours of practice does the "English Language B2 (Productive Skills)" course involve?
+Q_101: What practical experience options are available in the second year of the High Performance and Big Data Computing track?
+Q_101: How many CFU and practical hours does the "Internship" course offer?
+
+
+Q_102: What are the mandatory second-semester courses for the first year in the Web Information and Data Engineering track?
+Q_102: How many CFU and lecture hours does the "Graph Databases" course offer?
+Q_102: What elective courses are available in the second year for the Web Information and Data Engineering track?
+Q_102: What is the course code and CFU for the "Concurrent and Real-Time Programming" elective course?
+
+
+Q_103: What are the mandatory second-semester courses for the first year in the Digital Health and Clinical Engineering track?
+Q_103: How many CFU and lecture hours does the "Bioimaging" course offer?
+Q_103: What elective courses are available in the second year for the Digital Health and Clinical Engineering track?
+Q_103: What is the course code and CFU for the "Machine Learning for Bioengineering" course?
+
+
+Q_104: What are the mandatory first-semester courses for the Industrial Bioengineering track in the master's degree at the University of Padua?
+Q_104: How many CFU and lecture hours does the "Mechanics of Biological Tissues" course offer?
+Q_104: What are the evaluation methods for the "Statistical Methods for Bioengineering" course in the first semester?
+Q_104: What is the course code for "Advanced Biomaterials for Biomedicine," and how many CFU does it provide?
+
+
+Q_105: What are the mandatory second-semester courses for the first year in the Biomedical Data Models and Analysis track?
+Q_105: How many CFU and lecture hours does the "Machine Learning for Bioengineering" course offer?
+Q_105: What elective courses are available in the second year for the Biomedical Data Models and Analysis track?
+Q_105: What is the course code and CFU for the "Medical Biotechnologies" course?
+
+
+Q_106: How many CFU and lecture hours does the "Neurophysiology, Neural Computation and Neurotechnologies" course offer?
+Q_106: What is the course code for the "Deep Learning Applied to Neuroscience and Rehabilitation" course, and how many CFU does it provide?
+Q_106: How is the "Control of Biological Systems" course evaluated?
+
+
+Q_107: What is the mandatory course in the second year of the Bioengineering for Rehabilitation track, and how many CFU does it offer?
+Q_107: How many elective credits must students complete in the second year of the Bioengineering for Rehabilitation track?
+Q_107: How many hours of practice does the "Final Examination" course involve?
